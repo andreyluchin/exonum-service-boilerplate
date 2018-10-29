@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Andrey Luchin <andreyluchin29@gmail.com>"]
 
 [dependencies]
+exonum = "0.9.4"
