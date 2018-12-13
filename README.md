@@ -1,7 +1,13 @@
 # Exonum Service Boilerplate
 
-This repo serves as a clone-and-go entry point to using [Exonum](https://github.com/exonum/exonum)
+This repo serves as a boilerplate to be used with [`cargo-generate`](https://github.com/ashleygwilliams/cargo-generate)
+entry point to using [Exonum](https://github.com/exonum/exonum)
 \- an extensible open-source framework for creating private/permissioned blockchain applications (https://exonum.com).
+
+## Usage
+
+1. `cargo install cargo-generate`
+2. `cargo generate --git https://github.com/andreyluchin/exonum-service-boilerplate`
 
 ## Project layout
 
