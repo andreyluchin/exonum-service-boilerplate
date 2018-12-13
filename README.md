@@ -7,7 +7,7 @@ entry point to using [Exonum](https://github.com/exonum/exonum)
 ## Usage
 
 1. `cargo install cargo-generate`
-2. `cargo generate --git https://github.com/andreyluchin/exonum-service-boilerplate --name exonum-service`
+2. `cargo generate --git https://github.com/exonum/exonum-service-boilerplate --name exonum-service`
 
 ## Project layout
 
